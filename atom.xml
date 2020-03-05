@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://funk.github.io</id>
+    <title>Funk工作室</title>
+    <updated>2020-03-05T23:50:08.810Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://funk.github.io"/>
+    <link rel="self" href="https://funk.github.io/atom.xml"/>
+    <subtitle>热爱游戏 永远年轻</subtitle>
+    <logo>https://funk.github.io/images/avatar.png</logo>
+    <icon>https://funk.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, Funk工作室</rights>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://funk.github.io/post/about/</id>
+        <link href="https://funk.github.io/post/about/">
+        </link>
+        <updated>2019-01-25T11:09:48.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
+</blockquote>
+<h2 id="关于本站">🏠 关于本站</h2>
+<p>本站是Funk工作室官方网站</p>
+<h2 id="博主是谁">👨‍💻 博主是谁</h2>
+<p>B站UP主Funk工作室</p>
+<h2 id="联系我呀">📬 联系我呀</h2>
+<p>有意向者加入QQ群：1075382609</p>
+]]></content>
+    </entry>
+</feed>
