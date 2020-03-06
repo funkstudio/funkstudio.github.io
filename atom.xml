@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://funkstudio.github.io</id>
     <title>Funk工作室</title>
-    <updated>2020-03-06T00:04:32.436Z</updated>
+    <updated>2020-03-06T00:07:06.286Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://funkstudio.github.io"/>
     <link rel="self" href="https://funkstudio.github.io/atom.xml"/>
@@ -15,7 +15,7 @@
         <id>https://funkstudio.github.io/post/about/</id>
         <link href="https://funkstudio.github.io/post/about/">
         </link>
-        <updated>2019-01-25T11:09:48.000Z</updated>
+        <updated>2020-03-06T00:06:59.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
 <p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
 </blockquote>
